@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amps-sub.iml" filepath="$PROJECT_DIR$/amps-sub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-AmpsSubscriber-nar/nifi-AmpsSubscriber-nar.iml" filepath="$PROJECT_DIR$/nifi-AmpsSubscriber-nar/nifi-AmpsSubscriber-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-AmpsSubscriber-processors/nifi-AmpsSubscriber-processors.iml" filepath="$PROJECT_DIR$/nifi-AmpsSubscriber-processors/nifi-AmpsSubscriber-processors.iml" />
+    </modules>
+  </component>
+</project>
