@@ -36,6 +36,12 @@
             <artifactId>nifi-AmpsSubscriber-processors</artifactId>
             <version>1.9.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.crankuptheamps</groupId>
+            <artifactId>amps-client</artifactId>
+            <version>5.2.0.1</version>
+        </dependency>
     </dependencies>
 
 </project>
